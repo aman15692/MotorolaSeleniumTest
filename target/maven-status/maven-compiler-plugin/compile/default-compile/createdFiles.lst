@@ -1,0 +1,6 @@
+Pages\registration.class
+utilityClass\RegtestUtil.class
+baseClass\InitializeBrowser.class
+utilityClass\testUtil.class
+Pages\SelectProduct.class
+Pages\SignInPage.class

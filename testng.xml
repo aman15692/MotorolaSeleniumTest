@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Selenium Assignment Automation Test Suite">
+
+    <test name="Motorola Selenium Test case execution">
+        <classes>
+            <class name="findDifference"></class>
+            <class name="removeDuplicateEntry"></class>
+            <class name="stringCompression"></class>
+            <class name="TestCases"></class>
+        </classes>
+    </test>
+</suite>
